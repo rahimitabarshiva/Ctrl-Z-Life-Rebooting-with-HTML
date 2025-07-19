@@ -1,0 +1,13 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(241, 243, 244);
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    overflow-x: hidden;
+    >table{
+        border: 21px groove rgb(140, 142, 140);
+        margin-top: 50px;
+    }
+}
