@@ -9,5 +9,5 @@
 
 - Technologies Used - Html
 
-How to reach me : with my [Instagram](https://www.instagram.com/shiva.rahimitabar.dev and [Linkedin](https://www.linkedin.com/in/shiva-rahimitabar-336119361)
+How to reach me : with my [instagram](https://www.instagram.com/shiva.rahimitabar.dev) and [Linkedin](https://www.linkedin.com/in/shiva-rahimitabar-336119361)
 
