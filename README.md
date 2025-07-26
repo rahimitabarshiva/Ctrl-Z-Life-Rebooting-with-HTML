@@ -11,4 +11,4 @@
 
 www.linkedin.com/in/shiva-rahimitabar-336119361
 How to reach me : 
-with my [instagram](https://www.instagram.com/shiva.rahimitabar.dev) and [Linkedin](www.linkedin.com/in/shiva-rahimitabar-336119361)
+with my [instagram](https://www.instagram.com/shiva.rahimitabar.dev) and [Linkedin](https://www.linkedin.com/in/shiva-rahimitabar-336119361)
